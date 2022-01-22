@@ -1,0 +1,1085 @@
+/*HD+*/
+@media(max-width: 1700px){
+    .about_p{
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    .starbyte_about .about_wrapper{
+        margin-top: 30px;
+    }
+    .starbyte_about{
+        padding-top: 70px;
+    }
+}
+@media(max-height: 1020px){
+    .starbyte_section3{
+        padding-top: 70px;
+    }
+}
+@media(max-width: 1680px){
+    .gta_wrapper{
+        max-width: 1000px;
+    }
+    .g_box2{
+        max-width: 800px;
+        top: 50px;
+    }
+    .g_box3{
+        top: 80px;
+        max-width: 680px;
+    }
+    .text_wrapper_gta p{
+        font-size: 17px;
+    }
+    .text_wrapper_gta p:last-child{
+        max-width: 430px;
+    }
+    .text_wrapper_gta .install_p:last-child{
+        max-width: 580px;
+    }
+}
+@media(max-width: 1600px) and (max-height: 900px){
+    .regis-container h2{
+        font-size: 30px;
+    }
+    .meett{
+        font-size: 17px;
+    }
+    .regis-container{
+        width: 450px;
+    }
+    .btn-flex button{
+        width: 350px;
+        height: 80px;
+        font-size: 30px;
+    }
+    .message{
+        height: 70px;
+    }
+    .sec{
+        padding-top: 110px;
+    }
+}
+@media(max-width: 1610px){
+    .gta_wrapper span img{
+        height: 70px;
+    }
+    .starbyte_section4, .starbyte_section5{
+        padding-top: 200px;
+    }
+    .g_box2{
+        height: 100px;
+    }
+    .g_box3{
+        height: 90px;
+    }
+    .g_box{
+        height: 130px;
+    }
+    .starbyte_about{
+        padding-top: 45px;
+    }
+    .home_list a{
+        font-size: 18px;
+    }
+    .star_byte_title h2{
+        font-size: 20px;
+    }
+    .star_byte_title h3{
+        font-size: 18px;
+    }
+    .starbyte_container h1{
+        font-size: 50px;
+        margin-top: 105px;
+        margin-bottom: 37px;
+        width: 700px;
+    }
+    .home_button{
+        color: #080B17;
+        max-width: 140px;
+        height: 35px;
+        font-size: 15px;
+    }
+    .starbyte_container .p-t{
+        font-size: 28px;
+        width: 600px;
+    }
+    .stick_span{
+        width: 383px;
+        margin-bottom: 30px;
+    }
+    .star_game2 img{
+        width: 300px;
+    }
+    .container_video button{
+        width: 190px;
+        height: 48px;
+        font-size: 16px;
+        padding: 0;
+    }
+    .car-title{
+        top: 30%;
+        transform: translateY(-30%);
+    }
+    .autoshow-section{
+        max-width: 1200px;
+    }
+}
+@media(max-width: 1400px){
+    .starbyte_section3{
+        padding-top: 40px;
+    }
+    .text_wrapper_gta .install_p:last-child{
+        max-width: 480px;
+    }
+    .starbyte_section4, .starbyte_section5{
+        padding-top: 150px;
+    }
+    .text_wrapper_gta p{
+        font-size: 14px;
+    }
+    .text_wrapper_gta p:last-child{
+        line-height: 18px;
+    }
+    .gta_circle_icon{
+        width: 72px;
+        height: 72px;
+    }
+    .search_svg{
+        width: 24px;
+    }
+    .gta_wrapper span img{
+        height: 50px;
+    }
+    .gta_wrapper span{
+        top: 20px;
+        transform: translateX(-55px);
+    }
+    .g_box button{
+        width: 130px;
+        height: 30px;
+    }
+    .g_box2{
+        height: 70px;
+    }
+    .g_box3{
+        height: 50px;
+    }
+    .gta_wrapper{
+        max-width: 850px;
+    }
+    .g_box{
+        height: 100px;
+    }
+    .starbyte_about .about_span , .paragraph_container h4{
+        font-size: 20px;
+    }
+    .circle_one{
+        width: 35px;
+        height: 35px;
+        font-size: 14px;
+    }
+    .about_p{
+        font-size: 19px;
+        line-height: 30px;
+    }
+    .starbyte_about{
+        padding-left: 10%;
+    }
+    .person-title{
+        width: 250px;
+        height: 51px;
+        font-size: 19px;
+    }
+    .autoshow-section{
+        max-width: 1000px;
+    }
+    .line-2-cont:last-child{
+        padding: 34px 0px 80px 24px;
+    }
+    .line-2-cont{
+        padding: 34px 0px 23px 23px;
+    }
+    .h2-title{
+        font-size: 20px;
+    }
+    .list-a{
+        font-size: 23px;
+    }
+    .inform-h5{
+        font-size: 23px;
+    }
+    .online-p, .components, .money{
+        font-size: 16px;
+    }
+    .line-box{
+        height: 200px;
+    }
+    .circle-box div{
+        border-radius: 50%;
+        height: 130px;
+        width: 130px;
+    }
+}
+@media(max-width: 1366px){
+    .starbyte_container h1{
+        font-size: 30px;
+        width: 400px;
+        line-height: 40px;
+        margin-bottom: 30px;
+        margin-top: 50px;
+    }
+    .starbyte_container .p-t{
+        font-size: 20px;
+        width: 300px;
+        line-height: 25px;
+    }
+    .stick_span{
+        width: 200px;
+        height: 2px;
+    }
+    .flex_icon{
+        width: 40px;
+        height: 40px;
+    }
+    .flex_icon img{
+        width: 20px;
+    }
+    .right_block p{
+        font-size: 14px;
+    }
+    .card-title p{
+        font-size: 19px;
+    }
+    .title-wrap h2{
+        font-size: 30px;
+    }
+    .logt-span{
+        font-size: 13px;
+    }
+    .autoshow-box h3{
+        font-size: 19px;
+    }
+    .autoshow-section{
+        height: 240px;
+    }
+    .autoshow-box img{
+        margin: 13px 0px 10px 0px;
+        height: 90px;
+    }
+    .section-container , .navigation-container{
+        max-width: 1170px;
+        width: 100%;
+    }
+    .line-box{
+        max-width: 450px;
+        width: 100%;
+    }
+}
+@media(max-width: 1280px) {
+    .navigation-nav{
+        max-width: 1000px;
+        padding-top: 50px;
+    }
+    .family-nav li a{
+        font-size: 20px;
+    }
+    .input-container, .button-container{
+        width: 450px;
+    }
+    .radient-box{
+        max-width: 800px;
+    }
+    .button-container button{
+        width: 200px;
+        height: 48px;
+        font-size: 17px;
+    }
+    .form-box input{
+        height: 80px;
+    }
+    .person-information-box{
+        max-width: 300px;
+    }
+    .list-container-span{
+        font-size: 15px;
+    }
+    .info-bottom{
+        margin-bottom: 25px
+    }
+    .person-title{
+        top: 98px;
+        left: 84px;
+    }
+    .person-img{
+        max-width: 200px;
+    }
+    .person-button, .role-button{
+        height: 43px;
+    }
+    .person-button{
+        font-size: 14px;
+        width: 200px;
+    }
+    .person-button:hover{
+        font-size: 15px;
+    }
+    .car-title{
+        padding: 0px 17px;
+        width: 200px;
+        height: 220px;
+    }
+    .lvl{
+        height: 7px;
+        width: 29px;
+    }
+    .scroll-cont{
+        padding: 20px 0px 18px 0px;
+    }
+    .autoshow-section{
+        padding: 0px 20px 0px 29px;
+        height: 205px;
+    }
+    .autoshow-box{
+        padding: 15px 36px 8px 36px;
+        width: 160px;
+    }
+    .autoshow-box img{
+        height: 60px;
+    }
+    .p{
+        font-size: 8px;
+        width: 130px;
+    }
+    .color-yellow{
+        font-size: 18px;
+    }
+    .regis-container h2{
+        font-size: 26px;
+    }
+    .meett{
+        font-size: 15px;
+    }
+    .regis-container{
+        width: 350px;
+    }
+    .btn-flex button{
+        width: 250px;
+        height: 50px;
+        font-size: 26px;
+    }
+    .message{
+        height: 70px;
+    }
+    .sec{
+        padding-top: 110px;
+    }
+    .span-title{
+        font-size: 17px;
+    }
+    .forgot{
+        margin-top: 50px;
+        font-size: 16px;
+    }
+    .save_info{
+        font-size: 13px;
+    }
+    .componentss{
+        margin-left: 80px;
+    }
+    .member-management{
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .member-box:last-child{
+        margin-top: 80px;
+    }
+    .member-box2:last-child{
+        margin-top: 0;
+    }
+    .section-container , .navigation-container{
+        max-width: 950px;
+        width: 100%;
+    }
+    .list-a{
+        font-size: 18px;
+    }
+    .line-box{
+        max-width: 380px;
+        height: 175px;
+        width: 100%;
+    }
+    .btn-555{
+        padding: 10px 41px 7px 41px;
+        font-size: 12px;
+    }
+    .inform-h5{
+        font-size: 16px;
+    }
+    .online-p, .components, .money{
+        font-size: 12px;
+    }
+    .q{
+        font-size: 11px;
+    }
+    .on-line:last-child{
+        margin-left: 20px;
+    }
+    /*submit container here !!!*/
+    .submit-box{
+        padding: 17px 54px 20px 54px;
+    }
+    .accept{
+        font-size: 15px;
+        padding: 10px 19px 6px 19px;
+        width: 120px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    #money{
+        font-size: 17px;
+    }
+    .inp_ref{
+        padding: 18px 14px;
+    }
+    .submit-box h5{
+        font-size: 19px;
+    }
+    .add-h5{
+        text-align: center;
+        font-size: 25px;
+    }
+    .text-area-box input{
+        font-size: 15px;
+    }
+}
+@media(max-width: 1124px){
+    .gta_wrapper span{
+        top: 10px;
+    }
+    .starbyte_section4, .starbyte_section5{
+        padding-top: 110px;
+    }
+    .g_box2{
+        max-width: 500px;
+        top: 16px;
+    }
+    .g_box3{
+        max-width: 340px;
+        top: 51px;
+    }
+    .gta_wrapper{
+        max-width: 640px;
+    }
+    .g_box{
+        padding: 0px 20px 0px 26px;
+        height: 70px;
+    }
+    .gta_circle_icon{
+        height: 60px;
+        width: 60px;
+    }
+    .gta_png{
+        width: 40px;
+    }
+    .hero_png{
+        width: 95%;
+    }
+    .g_box button{
+        font-size: 11px;
+    }
+    .text_wrapper_gta p{
+        font-size: 9px;
+    }
+    .text_wrapper_gta p:last-child{
+        line-height: 10px;
+    }
+    .starbyte_about{
+        padding-left: 5%;
+    }
+    .about_p{
+        margin-top: 16px;
+        font-size: 17px;
+    }
+    .home_list a{
+        font-size: 15px;
+    }
+    .star_byte_title h2{
+        font-size: 18px;
+    }
+    .star_byte_title h3{
+        font-size: 16px;
+    }
+    .home_button{
+        max-width: 110px;
+        font-size: 12px;
+        height: 26px;
+    }
+}
+@media(max-width: 1090px){
+    .member-box2:nth-child(2){
+        margin: 0px;
+    }
+}
+@media(max-width: 986px){
+    .member-box2{
+        padding: 30px;
+    }
+}
+@media(max-width: 1024px){
+    .about_p{
+        font-size: 13px;
+        line-height: 23px;
+        margin-top: 10px;
+    }
+    .container_video button{
+        height: 28px;
+        width: 150px;
+        font-size: 11.5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .family-nav li a{
+        font-size: 17px;
+    }
+    #TheFamilies{
+        font-size: 17px;
+    }
+    .change{
+        padding-top: 20px;
+    }
+    .navigation-nav{
+        max-width: 700px;
+    }
+    .radient-box{
+        width: 600px;
+    }
+    .form-box input{
+        height: 60px;
+    }
+    .input-container, .button-container{
+        width: 350px;
+    }
+    .button-container button{
+        width: 170px;
+        font-size: 14px;
+    }
+    .person-information-box{
+        max-width: 270px;
+    }
+    .info-bottom{
+        margin-bottom: 25px
+    }
+    .person-title{
+        width: 190px;
+        font-size: 14px;
+        justify-content: flex-end;
+        padding-right: 30px;
+        left: 68px;
+    }
+    .car-title{
+        width: 160px;
+        height: 150px;
+    }
+    .car-title-box:not(:first-child){
+        margin-top: 15px;
+    }
+    .car-title h5{
+        font-size: 9px;
+    }
+    .lvl{
+        height: 4px;
+        width: 20px;
+    }
+    .scroll-cont{
+        padding: 10px 0px 18px 0px;
+    }
+    .autoshow-section{
+        max-width: 800px;
+        height: 185px;
+    }
+    .autoshow-box h3{
+        font-size: 15px;
+    }
+    .scroll-cont::-webkit-scrollbar {
+        height: 4px;
+    }
+    .autoshow-box{
+        transform: scale(0.9);
+    }
+    .logt-span{
+        display: none;
+    }
+    .regis-container h2 , .title-wrap h2{
+        font-size: 20px;
+    }
+    .regis-container{
+        width: 250px;
+    }
+    .btn-flex button{
+        width: 120px;
+        height: 30px;
+        font-size: 18px;
+    }
+    .message{
+        height: 40px;
+    }
+    .forgot{
+        margin-top: 30px;
+        font-size: 15px;
+    }
+    .save_info{
+        font-size: 13px;
+    }
+    .text-area-box input{
+        font-size: 12px;
+        padding: 51px 0px 46px 33px;
+    }
+    .save-box{
+        right: 20px;
+    }
+    .span-title{
+        font-size: 12px;
+    }
+    .buy-1000{
+        width: 70px;
+        height: 20px;
+        font-size: 13px;
+    }
+    .slot-class, .component-span{
+        font-size: 13px;
+    }
+    .flex-box{
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .parr{
+        font-size: 26px;
+        margin-bottom: 50px;
+    }
+    .data span{
+        font-size: 15px;
+    }
+    .data-inf span{
+        font-size: 12px;
+    }
+    .add{
+        padding: 60px 47px 104px 47px;
+    }
+    .member-management{
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+    .member-management2{
+        flex-direction: inherit;
+    }
+    .member-box:not(:first-child){
+        margin-top: 80px;
+    }
+    .member-box2:not(:first-child){
+        margin: 0px;
+    }
+    .member-management{
+        margin-top: 90px;
+    }
+    .section-container, .navigation-container{
+        max-width: 750px;
+        width: 100%;
+    }
+    .list-a{
+        font-size: 15px;
+    }
+    .circle-box div{
+        height: 80px;
+        width: 80px;
+    }
+    .inform{
+        margin-left: 25px;
+    }
+    .btn-555{
+        font-size: 10px;
+    }
+    .line-box{
+        max-width: 280px;
+    }
+    .submit-box{
+        padding: 17px 24px 20px 24px;
+    }
+    .inp_ref{
+        margin-top: 15px;
+    }
+    .two_input{
+        margin-top: 29px;
+    }
+    .accept{
+        font-size: 12px;
+    }
+    .blocked-container p{
+        font-size: 17px;
+    }
+}
+@media(max-width: 950px){
+    .flex_icon{
+        width: 25px;
+        height: 25px;
+    }
+    .flex_icon img{
+        width: 13px;
+    }
+    .right_block{
+        margin-left: 15px;
+    }
+    .home_list a{
+        font-size: 13px;
+    }
+    .home_list:not(:first-child){
+        margin-left: 16px;
+    }
+    .deg-block{
+        transform: rotate(33.88deg) translateX(65%) translateY(-20%);
+    }
+    .star_game2 img{
+        width: 230px;
+    }
+    .star_game{
+        height: 78%;
+    }
+    .blocked-container p{
+        font-size: 14px;
+    }
+    .card-title p{
+        font-size: 16px;
+    }
+    .radient-box{
+        width: 450px;
+    }
+    .info-bottom{
+        margin-bottom: 15px;
+    }
+    .info-bottom img{
+        width: 25px;
+        height: 25px;
+    }
+    .person-information-box{
+        max-width: 230px;
+        padding: 25px 21px 32px 20px;
+    }
+    .list-container-span{
+        font-size: 12px;
+    }
+    .person-img{
+        max-width: 170px;
+    }
+    .person-button, .role-button{
+        height: 33px;
+    }
+    .role-button{
+        width: 36px;
+    }
+    .role-button img{
+        width: 14px;
+    }
+    .person-button{
+        font-size: 12px;
+        width: 180px;
+    }
+    .person-button:hover{
+        font-size: 13px;
+    }
+    .autoshow-section{
+        max-width: 640px;
+    }
+}
+@media(max-width: 850px){
+    .home_list a{
+        font-size: 12px;
+    }
+}
+@media(max-width: 800px){
+    .person-title{
+        transform: scale(0.8);
+        top: 80px;
+        left: 46px;
+    }
+    .mask-container, .mask-container2{
+        height: 60%;
+    }
+    .mask-img{
+        max-width: 320px;
+        width: 100%;
+    }
+}
+@media(max-width: 770px){
+    .family-store{
+        padding: 16px 20px 14px 20px;
+    }
+}
+@media(max-width: 730px){
+    .inp-wrper{
+        max-width: 200px;
+        width: 100%;
+    }
+    .bbx{
+        height: 250px;
+    }
+    .rank-wrp{
+        height: 44px;
+        width: 44px;
+    }
+    .setting-wrapper, .access span {
+        font-size: 20px;
+    }
+    .text-area-box input{
+        font-size: 7px;
+    }
+    .save-box{
+        right: 5px;
+        width: 80px;
+        height: 24px;
+    }
+    .span-title{
+        font-size: 9px;
+    }
+    .slot-class, .component-span{
+        font-size: 7px;
+    }
+    .slider-icon{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+        width: 60px;
+        text-align: center;
+    }
+    .store-slider{
+        margin-left: 30px;
+    }
+    .componentss{
+        margin-left: 40px;
+    }
+    .buy-1000{
+        font-size: 11px;
+    }
+    .line-1-cont {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+    }
+    .line-box{
+        max-width: 100%;
+    }
+    .line-box:nth-child(2){
+        margin-top: 20px;
+    }
+    .section-container, .navigation-container{
+        max-width: 550px;
+    }
+    .n{
+        display: none;
+    }
+    .absolute_out{
+        right: 20px;
+        top: 20px;
+        position: fixed;
+        z-index: 100;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+    .navigation-container{
+        max-width: 380px;
+    }
+    .list:not(:first-child){
+        margin-left: 15px;
+    }
+    .list-a{
+        font-size: 11px;
+    }
+}
+@media(max-width: 650px){
+    .rank-wrp{
+        font-size: 8px;
+    }
+    .inp-wrper{
+        font-size: 7px;
+    }
+}
+@media(max-width: 601px){
+    body{
+        height: 100%;
+    }
+    .partic3{
+        padding: 50px 17px 353px 17px;
+    }
+    .accept{
+        font-size: 11px;
+        padding: 10px 14px 6px 14px;
+        width: 100px;
+    }
+    .submit-box h5{
+        font-size: 15px;
+    }
+    .inp_ref{
+        padding: 13px 9px;
+    }
+    .inp_ref::-webkit-input-placeholder{
+        font-size: 10px;
+    }
+    .inp_ref::-moz-placeholder{
+        font-size: 10px;
+    }
+    .inp_ref:-ms-input-placeholder{
+        font-size: 10px;
+    }
+    .inp_ref::-ms-input-placeholder{
+        font-size: 10px;
+    }
+    .inp_ref::placeholder{
+        font-size: 10px;
+    }
+}
+@media(max-width: 515px){
+    #search{
+        width: 250px;
+    }
+    .data span{
+        font-size: 12px;
+    }
+    .text-area-box{
+        height: 120px;
+    }
+    .setting-wrapper, .access span{
+        font-size: 14px;
+    }
+    .text-area-box input{
+        padding: 31px 0px 26px 0px;
+    }
+    .family-store{
+        padding: 16px 10px 14px 10px;
+    }
+    .store-slider{
+        margin-left: 15px;
+    }
+    .componentss{
+        margin-left: 20px;
+    }
+    .lg-out-span{
+        display: none;
+    }
+    .member_class{
+        width: 170px;
+        height: 34px;
+        padding: 13px 40px 13px 40px;
+    }
+    .member_class::-webkit-input-placeholder{
+        font-size: 12px;
+        text-align: center;
+    }
+    .member_class::-moz-placeholder{
+        font-size: 12px;
+        text-align: center;
+    }
+    .member_class:-ms-input-placeholder{
+        font-size: 12px;
+        text-align: center;
+    }
+    .member_class::-ms-input-placeholder{
+        font-size: 12px;
+        text-align: center;
+    }
+    .member_class::placeholder{
+        font-size: 12px;
+        text-align: center;
+    }
+    .para-box p{
+        font-size: 10px;
+    }
+    .add-button1{
+        width: 110px;
+        height: 35px;
+        padding: 0;
+        font-size: 15px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+}
+@media(max-width: 420px){
+    .list:not(:first-child){
+        margin-left: 10px;
+    }
+    .buy-1000{
+        width: 60px;
+    }
+    .span-title{
+        font-size: 7px;
+    }
+    .section-container{
+        padding: 40px 20px;
+    }
+    .list-a{
+        font-size: 9px;
+    }
+    .inform-h5{
+        font-size: 13px;
+    }
+    .fill{
+        font-size: 11px;
+    }
+    .navigation {
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+}
+@media(max-height: 640px){
+    .starbyte_container .p-t{
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .home_header_container{
+        padding-top: 10px;
+    }
+    .home_footer{
+        bottom: 10px;
+    }
+    .social_media_list{
+        margin-top: 10px;
+    }
+    .starbyte_container h1{
+        margin-top: 35px;
+    }
+}
+@media (max-height: 700px){
+    .sec{
+        padding-top: 10px;
+    }
+}
