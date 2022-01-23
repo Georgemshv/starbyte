@@ -612,9 +612,8 @@ body{
     background-position: top;
 }
 .home_body{
-    overflow: hidden;
     height: 100%;
-    background: linear-gradient(239.45deg, #080B17 15.83%, rgba(8, 11, 23, 0.97) 100%);
+    background: linear-gradient(239.45deg, #080B17 15.83%, rgba(8, 11, 23, 0.97) 100%) fixed;
 }
 .home_header_container{
     padding: 37px 8% 0px 8%;
@@ -890,4 +889,7 @@ body{
 }
 .text_wrapper_gta .install_p:last-child{
     max-width: 710px;
+}
+.opacity-00{
+    opacity: 0;
 }
