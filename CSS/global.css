@@ -894,3 +894,22 @@ body{
 .opacity-00{
     opacity: 0;
 }
+.server_video{
+    background-color: black;
+    width: 50%;
+    height: 60%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+.icon_close{
+    width: 40px;
+    top: 10px;
+    right: 10px;
+}
+.icon_close img{
+    width: 100%;
+}
+.iframe , .class_box{
+    height: 100%;
+}
